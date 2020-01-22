@@ -1,0 +1,2 @@
+# Time-Series-Forecasting-
+Time series data is a sequence of data points, measuring the same thing over time, stored in time order. In a time series, time is often the independent variable and the goal is usually to make a forecast for the future. Time series aids us to understand the past behavior and would be helpful for future predictions. In this project I worked on the time series data to predict the stock price. 
